@@ -1,27 +1,30 @@
-# Nhovem Cabahug — Web Developer
+<p align="center">
+  <img src="assets/header.svg" alt="Nhovem Cabahug — Web Developer" width="100%" />
+</p>
 
-> Building accessible web applications, high-performance browser graphics (Canvas / 60 FPS), and robust relational database architectures.
+<p align="center">
+  <a href="https://portfolio-ibem.vercel.app">
+    <img src="assets/portal.svg" alt="Enter Ibem's Tavern · Live Portfolio Experience" width="100%" />
+  </a>
+</p>
 
-[Enter Ibem's Tavern · Interactive Experience](https://portfolio-ibem.vercel.app)  
-[Inspect the Field Ledger · Zero-JS Mode (0 KB)](https://portfolio-ibem.vercel.app/simple)  
-[Send Word via Messenger Roost](https://portfolio-ibem.vercel.app/messenger) · [Direct Email](mailto:ncabahug223@gmail.com)
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
----
+### Selected Codebases & Systems
 
-### Selected Codebases & Engineering Provenance
+The repositories below showcase core engineering solutions, high-performance browser rendering, and relational architectures. Explore their source code directly or visit the live portfolio above for interactive execution:
 
-Detailed architecture dossiers, live playable canvas execution, and interactive threat models live on the portfolio. The repositories below highlight key systems:
+◆ **[ArcaneTyper](https://github.com/IbemCabahug/ArcaneTyper)** — High-performance browser combat typing game featuring a 60 FPS `requestAnimationFrame` game loop with falling word collision physics and zero-latency procedural Web Audio synthesis.
 
-◆ **ArcaneTyper** — High-performance 60 FPS Canvas combat typing engine with procedural Web Audio synthesis (0 external asset latency).  
-  › [Live Arena & Dossier](https://portfolio-ibem.vercel.app/quests/arcanetyper) · [Repository](https://github.com/IbemCabahug/ArcaneTyper)
+◆ **[bits](https://github.com/IbemCabahug/bits)** — Enterprise time-and-attendance platform interfacing with ZKTeco biometric hardware terminals, architected with PostgreSQL ACID transaction boundaries across 25 relational models to eliminate partial record anomalies during batch approvals.
 
-◆ **bits** — Production biometric time-and-attendance platform with PostgreSQL ACID transaction boundaries across 25 relational models.  
-  › [Architecture Dossier](https://portfolio-ibem.vercel.app/quests/bits) · [Repository](https://github.com/IbemCabahug/bits)
+◆ **[portfolio](https://github.com/IbemCabahug/portfolio)** — Accessible 2.5D medieval tavern portfolio engine built in Astro 7 and Vanilla CSS, featuring real-time build telemetry, 100/100 Lighthouse accessibility, and an instant Zero-JS fallback mode.
 
-◆ **portfolio** — Layered 2.5D tavern portfolio engineered in Astro 7 and Vanilla CSS, featuring real-time build telemetry and a 0 KB JS fallback.  
-  › [System Walkthrough](https://portfolio-ibem.vercel.app/simple) · [Repository](https://github.com/IbemCabahug/portfolio)
-
----
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
 ### Verified Quality Standards
 
@@ -29,10 +32,12 @@ Detailed architecture dossiers, live playable canvas execution, and interactive 
 · **Performance:** LCP < 2.5s · Initial JavaScript in Simple Mode: 0 bytes  
 · **Type Safety:** Astro 7 + strict TypeScript · Zero compiler warnings  
 
----
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
 ### Coordinates
 
 · **Location:** Philippines  
-· **Repository Index:** Pinned below  
+· **Email:** [ncabahug223@gmail.com](mailto:ncabahug223@gmail.com)  
 · **Portfolio:** [portfolio-ibem.vercel.app](https://portfolio-ibem.vercel.app)
