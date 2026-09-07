@@ -1,56 +1,38 @@
 # Nhovem Cabahug — Web Developer
 
-Frontend and full-stack web developer based in the Philippines. Focused on semantic architecture, high-performance browser rendering (Canvas / 60 FPS), accessible UI engineering (WCAG 2.1 AA), and robust relational systems.
+> Frontend and full-stack web developer based in the Philippines. Focused on semantic architecture, high-performance browser rendering (Canvas / 60 FPS), accessible UI engineering (WCAG 2.1 AA), and robust relational systems.
 
-- **Live Portfolio:** [portfolio-ibem.vercel.app](https://portfolio-ibem.vercel.app/)
-  - [Interactive Experience (Tavern Mode)](https://portfolio-ibem.vercel.app) — Layered 2.5D medieval fantasy environment, dynamic repository telemetry, and live interactive embeds.
-  - [Field Ledger (Simple Mode)](https://portfolio-ibem.vercel.app/simple) — Zero-JavaScript, 0 KB client bundle fallback delivering 100% of technical proof-of-work with instant load times.
-- **Direct Contact:** [ncabahug223@gmail.com](mailto:ncabahug223@gmail.com) · [Portfolio Messenger](https://portfolio-ibem.vercel.app/messenger)
+[🌐 Live Portfolio (Tavern Mode)](https://portfolio-ibem.vercel.app) · [📄 Field Ledger (Zero-JS Mode)](https://portfolio-ibem.vercel.app/simple) · [📨 Messenger](https://portfolio-ibem.vercel.app/messenger) · [📫 Email](mailto:ncabahug223@gmail.com)
 
 ---
 
-## Featured Work & Case Studies
+## 🚀 Featured Projects & Technical Proof
 
-### 1. [Arcane Typer](https://github.com/IbemCabahug/ArcaneTyper)
-**Role:** Sole Developer · **Status:** Shipped (v2.2.6)  
-**Stack:** JavaScript (ES6+), HTML5 Canvas, Web Audio API, Supabase, Vite  
-- High-performance browser combat typing game featuring a 60 FPS `requestAnimationFrame` game loop and falling-word collision detection.
-- Custom procedural audio engine using the Web Audio API (zero external audio asset latency).
-- Real-time 1v1 multiplayer duels over room codes with authoritative Supabase synchronization.
-- **Playable Demo & Dossier:** [portfolio-ibem.vercel.app/quests/arcanetyper](https://portfolio-ibem.vercel.app/quests/arcanetyper)
-
-### 2. [BITS — Biometric Attendance & Information Tracking System](https://github.com/IbemCabahug/BITS)
-**Role:** Feature Developer & Bug Resolution (Team of 8) · **Status:** Shipped to Production  
-**Stack:** Next.js, TypeScript, Express.js, PostgreSQL  
-- Enterprise time-and-attendance system interfacing directly with ZKTeco biometric hardware terminals.
-- Architected PostgreSQL ACID transaction boundaries across 25 relational models to eliminate partial record anomalies during concurrent batch supervisor approvals.
-- Derived automated late, undertime, and overtime payroll calculations across 4 role-scoped management portals.
-- **Architecture Dossier:** [portfolio-ibem.vercel.app/quests/bits](https://portfolio-ibem.vercel.app/quests/bits)
-
-### 3. [Mimic](https://portfolio-ibem.vercel.app/quests/mimic)
-**Role:** Sole Developer · **Status:** In Active Development  
-**Stack:** Flutter, Dart, SQLite, AES-256-GCM  
-- Pass-and-play party game built on a zero-telemetry offline vault architecture.
-- Local AES-256 encrypted game-phrase storage with hardware-backed key derivation.
-- Resilient local-first state handling without cloud dependencies.
-- **Case Study Dossier:** [portfolio-ibem.vercel.app/quests/mimic](https://portfolio-ibem.vercel.app/quests/mimic)
+| Project | Role & Status | Primary Stack | Highlights & Architecture | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Arcane Typer** | Sole Developer<br>`🟢 Shipped (v2.2.6)` | HTML5 Canvas, JavaScript, Web Audio API, Supabase, Vite | • 60 FPS `requestAnimationFrame` game loop with falling word physics<br>• Procedural Web Audio synthesizer (0 external audio latency)<br>• Real-time 1v1 multiplayer duels synchronized via Supabase | [🎮 Play Demo](https://portfolio-ibem.vercel.app/quests/arcanetyper)<br>[📂 GitHub Repo](https://github.com/IbemCabahug/ArcaneTyper) |
+| **BITS** | Team of 8 (Feature Dev)<br>`🟢 Production` | Next.js, TypeScript, Express.js, PostgreSQL | • Time & attendance system interfacing directly with ZKTeco biometric hardware<br>• PostgreSQL ACID transaction wrappers across 25 relational models<br>• Automated payroll derivation (late, undertime, overtime) for 4 management portals | [📑 Architecture Dossier](https://portfolio-ibem.vercel.app/quests/bits)<br>[📂 GitHub Repo](https://github.com/IbemCabahug/bits) |
+| **Mimic** | Sole Developer<br>`🟡 Active Development` | Flutter, Dart, SQLite, AES-256-GCM | • Pass-and-play party game built on zero-telemetry offline vault architecture<br>• Local AES-256 encrypted game-phrase storage with hardware-backed key derivation<br>• Zero external cloud dependencies; resilient local-first state handling | [📑 Case Study Dossier](https://portfolio-ibem.vercel.app/quests/mimic) |
+| **Tavern Portfolio** | Sole Developer<br>`🟢 Shipped (v1.0)` | Astro 7, Vanilla CSS, TypeScript, Tailwind CSS 4, MDX | • Layered 2.5D medieval fantasy environment with real-time GitHub repository telemetry<br>• 100% WCAG 2.1 AA compliant (Lighthouse 100 A11y, 0 axe violations)<br>• Instant Zero-JS mode (`/simple`) with 0 KB initial client JavaScript bundle | [🌐 Live Site](https://portfolio-ibem.vercel.app)<br>[📂 GitHub Repo](https://github.com/IbemCabahug/portfolio) |
 
 ---
 
-## Engineering Competencies
+## 🛠️ Engineering Competencies
 
-| Domain | Technologies & Standards |
+| Domain | Technologies, Frameworks & Standards |
 | :--- | :--- |
-| **Frontend** | TypeScript, JavaScript (ESNext), Astro, HTML5, CSS3, Tailwind CSS, Responsive Design |
-| **Canvas & Interactive** | HTML5 Canvas 2D, 60 FPS Animation Loops, Web Audio API Synthesizers |
-| **Backend & Databases** | Node.js, Express.js, PostgreSQL (ACID design), REST APIs, Supabase |
-| **Mobile** | Flutter, Dart (Offline-First Architecture) |
-| **Quality & Accessibility** | WCAG 2.1 AA Compliance (Lighthouse 100, 0 axe violations), Performance Budgets (LCP < 2.5s, 0 KB initial JS Simple Mode), Linux / Git CLI |
+| **Frontend & UI Engineering** | TypeScript, JavaScript (ESNext), Astro, HTML5 (Semantic Web), CSS3 / Vanilla CSS, Tailwind CSS 4 |
+| **Canvas & Interactive Systems** | HTML5 Canvas 2D, 60 FPS Physics Loops, Procedural Web Audio API Synthesizers |
+| **Backend & Databases** | Node.js, Express.js, PostgreSQL (ACID Transaction Design), RESTful APIs, Supabase |
+| **Mobile Application** | Flutter, Dart (Offline-First Local Vault Architecture) |
+| **Quality, Performance & Tooling** | WCAG 2.1 AA (Lighthouse 100, 0 axe violations), Core Web Vitals (LCP < 2.5s), Linux CLI, Git CLI |
 
 ---
 
-## Contact & Coordinates
+## 📬 Contact & Coordinates
 
-- **Email:** [ncabahug223@gmail.com](mailto:ncabahug223@gmail.com)
-- **Portfolio Messenger:** [portfolio-ibem.vercel.app/messenger](https://portfolio-ibem.vercel.app/messenger)
+- **Portfolio:** [portfolio-ibem.vercel.app](https://portfolio-ibem.vercel.app)
+- **Zero-JS Mode:** [portfolio-ibem.vercel.app/simple](https://portfolio-ibem.vercel.app/simple)
+- **Direct Email:** [ncabahug223@gmail.com](mailto:ncabahug223@gmail.com)
+- **Messenger Roost:** [portfolio-ibem.vercel.app/messenger](https://portfolio-ibem.vercel.app/messenger)
 - **Location:** Philippines
