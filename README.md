@@ -2,7 +2,7 @@
 
 Frontend and full-stack web developer based in the Philippines. Focused on semantic architecture, high-performance browser rendering (Canvas / 60 FPS), accessible UI engineering (WCAG 2.1 AA), and robust relational systems.
 
-- **Live Portfolio:** [nhovem.vercel.app](https://portfolio-ibem.vercel.app/)
+- **Live Portfolio:** [portfolio-ibem.vercel.app](https://portfolio-ibem.vercel.app/)
   - [Interactive Experience (Tavern Mode)](https://portfolio-ibem.vercel.app) — Layered 2.5D medieval fantasy environment, dynamic repository telemetry, and live interactive embeds.
   - [Field Ledger (Simple Mode)](https://portfolio-ibem.vercel.app/simple) — Zero-JavaScript, 0 KB client bundle fallback delivering 100% of technical proof-of-work with instant load times.
 - **Direct Contact:** [ncabahug223@gmail.com](mailto:ncabahug223@gmail.com) · [Portfolio Messenger](https://portfolio-ibem.vercel.app/messenger)
